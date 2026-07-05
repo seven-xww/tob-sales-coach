@@ -21,7 +21,7 @@
 
 ```bash
 mkdir -p ~/.codex/skills
-git clone https://github.com/wenxie345-gif/tob-sales-coach.git ~/.codex/skills/tob-sales-coach
+git clone https://github.com/seven-xww/tob-sales-coach.git ~/.codex/skills/tob-sales-coach
 ```
 
 如果已经克隆过，更新到最新版：
@@ -130,4 +130,3 @@ $tob-sales-coach
 - 公开背调只使用公开来源，不编造私人信息
 - MBTI 等标签只能作为临时沟通假设，不能当作事实
 - 合作边界不清楚前，不建议交付完整策略、实施计划、源文件、架构细节或深度定制 proposal
-
